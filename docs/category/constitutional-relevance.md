@@ -79,3 +79,5 @@ prev:
 [戒严法](../constitutional-relevance/martial-law/)
 
 [爱国主义教育法](../constitutional-relevance/patriotism-education-law/)
+
+[法治宣传教育法](../constitutional-relevance/law-on-legal-publicity-and-education/)
