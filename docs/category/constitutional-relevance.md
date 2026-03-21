@@ -72,6 +72,8 @@ prev:
 
 [反外国制裁法](../constitutional-relevance/anti-foreign-sanctions-law/)
 
+[监察官法](../constitutional-relevance/supervisors-law/)
+
 [陆地国界法](../constitutional-relevance/land-border-law/)
 
 [对外关系法](../constitutional-relevance/foreign-relations-law/)
