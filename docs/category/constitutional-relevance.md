@@ -66,4 +66,6 @@ prev:
 
 [国家赔偿法](../constitutional-relevance/state-compensation-law/)
 
+[戒严法](../constitutional-relevance/martial-law/)
+
 [爱国主义教育法](../constitutional-relevance/patriotism-education-law/)
