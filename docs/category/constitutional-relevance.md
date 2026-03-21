@@ -62,6 +62,8 @@ prev:
 
 [专属经济区和大陆架法](../constitutional-relevance/exclusive-economic-zone-and-continental-shelf-law)
 
+[村民委员会组织法](../constitutional-relevance/villagers-committee-organization-law/)
+
 [立法法](../constitutional-relevance/legislation-law)
 
 [反分裂国家法](../constitutional-relevance/anti-secession-law/)
