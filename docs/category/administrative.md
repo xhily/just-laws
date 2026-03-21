@@ -31,3 +31,5 @@
 [中医药法](../administrative/traditional-chinese-medicine-law)
 
 [公共图书馆法](../administrative/public-library-law/)
+
+[学位法](../administrative/academic-degrees-law/)
