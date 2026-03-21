@@ -58,6 +58,8 @@ prev:
 
 [反分裂国家法](../constitutional-relevance/anti-secession-law/)
 
+[国家通用语言文字法](../constitutional-relevance/national-language-law/)
+
 [外国中央银行财产司法强制措施豁免法](../constitutional-relevance/foreign-central-bank-property-immunity-law/)
 
 [国家安全法](../constitutional-relevance/national-security-law/)
