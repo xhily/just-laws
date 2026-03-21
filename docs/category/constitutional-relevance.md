@@ -44,6 +44,8 @@ prev:
 
 [香港特别行政区驻军法](../constitutional-relevance/hong-kong-garrison-law/)
 
+[国防法](../constitutional-relevance/national-defense-law/)
+
 [澳门特别行政区基本法](../constitutional-relevance/macau-special-administrative-region-basic-law/)
 
 [澳门特别行政区驻军法](../constitutional-relevance/macau-garrison-law/)
