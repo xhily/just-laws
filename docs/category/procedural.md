@@ -15,3 +15,5 @@
 [人民调解法](../procedural/people-s-mediation-law/)
 
 [海事诉讼特别程序法](../procedural/maritime-procedure-law/)
+
+[劳动争议调解仲裁法](../procedural/labor-dispute-mediation-and-arbitration-law/)
