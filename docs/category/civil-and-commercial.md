@@ -4,6 +4,8 @@
 
 [商标法](../civil-and-commercial/trademark-law/)
 
+[全民所有制工业企业法](../civil-and-commercial/state-owned-industrial-enterprise-law/)
+
 [商业银行法](../civil-and-commercial/commercial-bank-law/)
 
 [保险法](../civil-and-commercial/insurance-law/)
