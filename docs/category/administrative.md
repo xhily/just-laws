@@ -29,3 +29,5 @@
 [人民武装警察法](../administrative/people-s-armed-police-law)
 
 [中医药法](../administrative/traditional-chinese-medicine-law)
+
+[公共图书馆法](../administrative/public-library-law/)
