@@ -40,6 +40,8 @@ prev:
 
 [香港特别行政区基本法](../constitutional-relevance/hong-kong-special-administrative-region-basic-law)
 
+[香港特别行政区驻军法](../constitutional-relevance/hong-kong-garrison-law/)
+
 [澳门特别行政区基本法](../constitutional-relevance/macau-special-administrative-region-basic-law/)
 
 [国旗法](../constitutional-relevance/national-flag-law)
