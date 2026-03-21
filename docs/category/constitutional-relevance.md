@@ -58,6 +58,8 @@ prev:
 
 [反分裂国家法](../constitutional-relevance/anti-secession-law/)
 
+[国家勋章和国家荣誉称号法](../constitutional-relevance/national-medal-and-national-honorary-title-law/)
+
 [国歌法](../constitutional-relevance/national-anthem-law)
 
 [人民陪审员法](../constitutional-relevance/people-s-assessors-law)
