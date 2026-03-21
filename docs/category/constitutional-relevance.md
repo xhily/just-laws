@@ -70,6 +70,8 @@ prev:
 
 [反外国制裁法](../constitutional-relevance/anti-foreign-sanctions-law/)
 
+[陆地国界法](../constitutional-relevance/land-border-law/)
+
 [外国国家豁免法](../constitutional-relevance/foreign-state-immunity-law/)
 
 [国家安全法](../constitutional-relevance/national-security-law/)
