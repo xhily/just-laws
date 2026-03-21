@@ -28,6 +28,8 @@
 
 [农村土地承包法](../civil-and-commercial/rural-land-contract-law/)
 
+[农村集体经济组织法](../civil-and-commercial/rural-collective-economic-organizations-law/)
+
 [农民专业合作社法](../civil-and-commercial/farmer-specialized-cooperatives-law/)
 
 [涉外民事关系法律适用法](../civil-and-commercial/law-application-to-foreign-related-civil-relations/)
