@@ -92,6 +92,8 @@ prev:
 
 [法官法](../constitutional-relevance/judges-law/)
 
+[检察官法](../constitutional-relevance/procurators-law/)
+
 [戒严法](../constitutional-relevance/martial-law/)
 
 [爱国主义教育法](../constitutional-relevance/patriotism-education-law/)
