@@ -94,6 +94,8 @@ prev:
 
 [公职人员政务处分法](../constitutional-relevance/public-officials-government-sanctions-law/)
 
+[监察法](../constitutional-relevance/supervision-law/)
+
 [全国人民代表大会和地方各级人民代表大会代表法](../constitutional-relevance/national-and-local-people-s-congresses-representative-law/)
 
 [国家赔偿法](../constitutional-relevance/state-compensation-law/)
