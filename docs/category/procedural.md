@@ -11,3 +11,5 @@
 [引渡法](../procedural/extradition-law/)
 
 [仲裁法](../procedural/arbitration-law/)
+
+[人民调解法](../procedural/people-s-mediation-law/)
