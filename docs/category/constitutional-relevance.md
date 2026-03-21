@@ -40,6 +40,8 @@ prev:
 
 [香港特别行政区基本法](../constitutional-relevance/hong-kong-special-administrative-region-basic-law)
 
+[中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法](../constitutional-relevance/pla-election-measures/)
+
 [香港特别行政区驻军法](../constitutional-relevance/hong-kong-garrison-law/)
 
 [澳门特别行政区基本法](../constitutional-relevance/macau-special-administrative-region-basic-law/)
