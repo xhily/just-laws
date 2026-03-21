@@ -94,6 +94,8 @@ prev:
 
 [公职人员政务处分法](../constitutional-relevance/public-officials-government-sanctions-law/)
 
+[香港特别行政区维护国家安全法](../constitutional-relevance/hong-kong-national-security-law/)
+
 [监察法](../constitutional-relevance/supervision-law/)
 
 [全国人民代表大会和地方各级人民代表大会代表法](../constitutional-relevance/national-and-local-people-s-congresses-representative-law/)
