@@ -46,6 +46,8 @@ prev:
 
 [领事特权与豁免条例](../constitutional-relevance/consular-privileges-and-immunities-regulations)
 
+[缔结条约程序法](../constitutional-relevance/treaty-conclusion-procedure-law/)
+
 [国徽法](../constitutional-relevance/national-emblem-law)
 
 [专属经济区和大陆架法](../constitutional-relevance/exclusive-economic-zone-and-continental-shelf-law)
