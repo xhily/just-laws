@@ -28,6 +28,8 @@
 
 [农村土地承包法](../civil-and-commercial/rural-land-contract-law/)
 
+[农民专业合作社法](../civil-and-commercial/farmer-specialized-cooperatives-law/)
+
 [证券投资基金法](../civil-and-commercial/securities-investment-fund-law/)
 
 [信托法](../civil-and-commercial/trust-law/)
