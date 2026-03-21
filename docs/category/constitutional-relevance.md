@@ -72,6 +72,8 @@ prev:
 
 [陆地国界法](../constitutional-relevance/land-border-law/)
 
+[对外关系法](../constitutional-relevance/foreign-relations-law/)
+
 [外国国家豁免法](../constitutional-relevance/foreign-state-immunity-law/)
 
 [国家安全法](../constitutional-relevance/national-security-law/)
