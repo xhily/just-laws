@@ -58,6 +58,8 @@ prev:
 
 [反分裂国家法](../constitutional-relevance/anti-secession-law/)
 
+[外国中央银行财产司法强制措施豁免法](../constitutional-relevance/foreign-central-bank-property-immunity-law/)
+
 [国家勋章和国家荣誉称号法](../constitutional-relevance/national-medal-and-national-honorary-title-law/)
 
 [国歌法](../constitutional-relevance/national-anthem-law)
