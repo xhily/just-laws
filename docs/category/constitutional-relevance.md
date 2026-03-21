@@ -68,6 +68,8 @@ prev:
 
 [外国中央银行财产司法强制措施豁免法](../constitutional-relevance/foreign-central-bank-property-immunity-law/)
 
+[各级人民代表大会常务委员会监督法](../constitutional-relevance/npc-standing-committees-supervision-law/)
+
 [反外国制裁法](../constitutional-relevance/anti-foreign-sanctions-law/)
 
 [陆地国界法](../constitutional-relevance/land-border-law/)
