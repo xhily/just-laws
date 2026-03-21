@@ -56,6 +56,8 @@ prev:
 
 [立法法](../constitutional-relevance/legislation-law)
 
+[反分裂国家法](../constitutional-relevance/anti-secession-law/)
+
 [国歌法](../constitutional-relevance/national-anthem-law)
 
 [人民陪审员法](../constitutional-relevance/people-s-assessors-law)
