@@ -18,6 +18,8 @@
 
 [个人独资企业法](../civil-and-commercial/sole-proprietorship-enterprise-law/)
 
+[证券法](../civil-and-commercial/securities-law/)
+
 [招标投标法](../civil-and-commercial/bidding-law/)
 
 [信托法](../civil-and-commercial/trust-law/)
