@@ -85,3 +85,5 @@
 [高等教育法](../administrative/higher-education-law/)
 
 [行政复议法](../administrative/administrative-reconsideration-law/)
+
+[消防法](../administrative/fire-services-law/)
