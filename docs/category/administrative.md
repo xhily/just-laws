@@ -75,3 +75,5 @@
 [核安全法](../administrative/nuclear-safety-law/)
 
 [教育法](../administrative/education-law/)
+
+[职业教育法](../administrative/vocational-education-law/)
