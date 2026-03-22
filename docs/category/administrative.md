@@ -91,3 +91,5 @@
 [道路交通安全法](../administrative/road-traffic-safety-law/)
 
 [食品安全法](../administrative/food-safety-law/)
+
+[枪支管理法](../administrative/gun-control-law/)
