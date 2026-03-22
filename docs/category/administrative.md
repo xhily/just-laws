@@ -51,3 +51,5 @@
 [反食品浪费法](../administrative/anti-food-waste-law/)
 
 [海关关衔条例](../administrative/customs-rank-regulations/)
+
+[消防救援衔条例](../administrative/fire-rescue-rank-regulations/)
