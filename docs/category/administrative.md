@@ -101,3 +101,5 @@
 [行政许可法](../administrative/administrative-licensing-law/)
 
 [行政强制法](../administrative/administrative-compulsion-law/)
+
+[民办教育促进法](../administrative/private-education-promotion-law/)
