@@ -63,3 +63,5 @@
 [医师法](../administrative/physicians-law/)
 
 [保守国家秘密法](../administrative/state-secrets-law/)
+
+[国境卫生检疫法](../administrative/frontier-health-and-quarantine-law/)
