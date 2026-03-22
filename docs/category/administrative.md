@@ -89,3 +89,5 @@
 [消防法](../administrative/fire-services-law/)
 
 [道路交通安全法](../administrative/road-traffic-safety-law/)
+
+[食品安全法](../administrative/food-safety-law/)
