@@ -81,3 +81,5 @@
 [电影产业促进法](../administrative/film-industry-promotion-law/)
 
 [教师法](../administrative/teachers-law/)
+
+[高等教育法](../administrative/higher-education-law/)
