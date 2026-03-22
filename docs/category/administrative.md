@@ -47,3 +47,5 @@
 [国防教育法](../administrative/national-defense-education-law/)
 
 [公共文化服务保障法](../administrative/public-cultural-services-guarantee-law/)
+
+[反食品浪费法](../administrative/anti-food-waste-law/)
