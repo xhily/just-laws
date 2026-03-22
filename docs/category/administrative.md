@@ -55,3 +55,5 @@
 [消防救援衔条例](../administrative/fire-rescue-rank-regulations/)
 
 [密码法](../administrative/cryptography-law/)
+
+[海警法](../administrative/coast-guard-law/)
