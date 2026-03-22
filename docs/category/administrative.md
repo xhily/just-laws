@@ -73,3 +73,5 @@
 [禁毒法](../administrative/anti-drug-law/)
 
 [核安全法](../administrative/nuclear-safety-law/)
+
+[教育法](../administrative/education-law/)
