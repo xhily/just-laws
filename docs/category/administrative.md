@@ -99,3 +99,5 @@
 [出境入境管理法](../administrative/exit-entry-administration-law/)
 
 [行政许可法](../administrative/administrative-licensing-law/)
+
+[行政强制法](../administrative/administrative-compulsion-law/)
