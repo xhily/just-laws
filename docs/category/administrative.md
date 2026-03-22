@@ -45,3 +45,5 @@
 [居民身份证法](../administrative/resident-identity-card-law/)
 
 [国防教育法](../administrative/national-defense-education-law/)
+
+[公共文化服务保障法](../administrative/public-cultural-services-guarantee-law/)
