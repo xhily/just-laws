@@ -79,3 +79,5 @@
 [职业教育法](../administrative/vocational-education-law/)
 
 [电影产业促进法](../administrative/film-industry-promotion-law/)
+
+[教师法](../administrative/teachers-law/)
