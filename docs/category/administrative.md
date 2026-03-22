@@ -71,3 +71,5 @@
 [律师法](../administrative/lawyers-law/)
 
 [禁毒法](../administrative/anti-drug-law/)
+
+[核安全法](../administrative/nuclear-safety-law/)
