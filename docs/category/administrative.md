@@ -39,3 +39,5 @@
 [献血法](../administrative/blood-donation-law/)
 
 [护照法](../administrative/passport-law/)
+
+[公证法](../administrative/notarization-law/)
