@@ -41,3 +41,5 @@
 [护照法](../administrative/passport-law/)
 
 [公证法](../administrative/notarization-law/)
+
+[居民身份证法](../administrative/resident-identity-card-law/)
