@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/logo.png
 actions:
   - text: 开始阅读
-    link: /constitution/序言.md
+    link: /constitution/preamble.md
     type: primary
 features:
   - title: 简洁至上
